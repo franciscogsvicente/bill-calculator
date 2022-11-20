@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 85%;
+  margin: 1rem auto;
+}
+
+.mt-1{
+  margin-top: 1rem;
+}
+
+.add {
+  position: fixed;
+  bottom: 0px;
+  width: 85%;
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+}
